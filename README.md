@@ -7,4 +7,4 @@ Although only these two samples are included in the paper, any arbitrary control
 
 Thank you for checking out the code, and please reach out to me at "hossainsamei@cmail.carleton.ca" should you have any questions, comments or concerns.
 
-Samei
+Samei (also known as BD Bhai)
